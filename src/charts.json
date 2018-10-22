@@ -1,0 +1,17 @@
+{
+    "zoomdata-radar-chartjs": {
+        "name": "Radar chart (Chart.js)",
+        "image": "https://cdn-images-1.medium.com/max/2000/1*xAZVMasP86RQhBXepKgoFQ.png"
+    },
+    "unknown": {
+        "name": "Bar chart",
+        "image": "https://docs.moodle.org/dev/images_dev/c/c5/bar_chart.png"
+    },
+    "unknown2": {
+        "name": "Custom Line Chart",
+        "image": "https://www.excel-easy.com/examples/images/line-chart/line-chart.png"
+    },
+    "unknown3": {
+        "name": "Map Chart"
+    }
+}

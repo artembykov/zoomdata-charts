@@ -1,0 +1,13 @@
+.Chart {
+  display: flex;
+  flex-direction: column;
+}
+
+.Chart-download {
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.Chart-download:hover {
+  cursor: pointer;
+}
